@@ -1,5 +1,1 @@
-求底为  120 高为  24.5  算出三角形的面积
-求半径为9.5元的 面积 输出到屏幕
-
-
-正在配对  已连接   配对成功  未连接
+Git is a distributed version control system.
